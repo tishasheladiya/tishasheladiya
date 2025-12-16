@@ -6,6 +6,13 @@
 
 ---
 
+## 👩‍💻 About Me
+I am a motivated student with a strong interest in web development.  
+I enjoy learning new technologies and building projects that improve my practical skills.  
+My goal is to become a professional web developer and work on real-world applications.
+
+---
+
 ###  Skills
 - HTML  
 - CSS  
