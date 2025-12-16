@@ -18,7 +18,7 @@ My goal is to become a professional web developer and work on real-world applica
 
 ## 🛠 Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
 </p>
 
 ---
