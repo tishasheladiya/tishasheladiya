@@ -1,8 +1,11 @@
-## Hi  I'm Tisha
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi+I'm+Tisha;Student+%7C+Aspiring+Web+Developer;Learning+HTML+CSS+JavaScript" alt="Typing SVG" />
+</p>
 
-🎓 Student  
-💻 Learning Web Development  
-🌱 Currently learning HTML, CSS & JavaScript  
+<p align="center">
+🎓 Student &nbsp;•&nbsp; 💻 Learning Web Development &nbsp;•&nbsp; 🌱 HTML, CSS & JavaScript
+</p>
 
 ---
 
@@ -13,29 +16,36 @@ My goal is to become a professional web developer and work on real-world applica
 
 ---
 
-###  Skills
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
+## 🛠 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
 ---
 
-### 📚 What I'm Learning
+## 📚 What I'm Learning
 - Responsive Web Design  
 - JavaScript Basics  
 - GitHub Projects  
 
 ---
 
-### 🚀 Goals
+## 🚀 Goals
 - Become a Web Developer  
 - Build real-world projects  
 - Improve coding skills daily  
 
 ---
 
-### 📫 Connect with Me
-- GitHub: @SheladiyaTisha  
+## 📫 Connect with Me
+- GitHub: [@SheladiyaTisha](https://github.com/SheladiyaTisha)
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+</p>
+
+<p align="center">
 ⭐ Thank you for visiting my profile!
+</p>
