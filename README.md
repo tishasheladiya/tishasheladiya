@@ -1,3 +1,5 @@
+<h1 align="center">I am tisha sheladiya</h1>
+
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Hi+I'm+Tisha;Student+%7C+Aspiring+Web+Developer;Learning+HTML+CSS+JavaScript" alt="Typing SVG" />
