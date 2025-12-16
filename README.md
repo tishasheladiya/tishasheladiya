@@ -1,4 +1,4 @@
-## Hi 👋 I'm Tisha
+## Hi  I'm Tisha
 
 🎓 Student  
 💻 Learning Web Development  
